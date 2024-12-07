@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native error related to missing native modules. The `bug.js` file shows how the error is triggered by attempting to use a library that depends on a native module that isn't correctly linked. The `bugSolution.js` file shows the solution using the correct linking approach.
